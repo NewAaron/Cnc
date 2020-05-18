@@ -1,3 +1,3 @@
 # Cnc
-陈诺诚的世界库
+hello world
 初步使用github   2017-09-20
